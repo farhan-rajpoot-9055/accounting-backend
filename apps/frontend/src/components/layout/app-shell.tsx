@@ -1,4 +1,3 @@
-import { cn } from "@/lib/utils"
 import { Menu } from "lucide-react"
 
 export function AppShell({ children }: { children: React.ReactNode }) {
